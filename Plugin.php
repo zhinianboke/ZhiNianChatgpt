@@ -1,6 +1,6 @@
 <?php
 /**
- * 网站访问密码验证
+ * Typecho自动写文章插件
  *
  * @package ZhiNianChatgpt
  * @author 执念博客
