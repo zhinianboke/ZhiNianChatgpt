@@ -15,3 +15,5 @@ ZhiNianChatgpt 是一个方便你在typecho使用chatgpt进行文章创作的插
 ```
 您可以前往撰写文章页面，体验强大的ai给您带来的写作灵感！
 无需科学上网，仅需在你的博客后台即可使用！
+
+具体介绍如下：https://zhinianboke.com/archives/2101/
